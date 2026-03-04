@@ -1,0 +1,8 @@
+torch
+torchaudio
+speechbrain
+librosa
+numpy
+scipy
+matplotlib
+sounddevice
